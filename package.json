@@ -1,0 +1,36 @@
+{
+  "name": "behave-ui-konami",
+  "version": "0.0.1",
+  "description": "A konami code marionette behavior, allows for custom codes as well",
+  "main": "src/behave-ui-konami.js",
+  "scripts": {
+    "test": "node --debug ./node_modules/.bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:behave-ui/behave-ui-konami.git"
+  },
+  "keywords": [
+    "marionettejs",
+    "backbonejs",
+    "backbone.marionette",
+    "behave",
+    "behave-ui",
+    "behaviors",
+    "konami"
+  ],
+  "author": "kurtiskemple@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behave-ui/behave-ui-konami/issues"
+  },
+  "homepage": "https://github.com/behave-ui/behave-ui-konami",
+  "dependencies": {
+    "backbone.marionette": ">= 2.x"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "load-grunt-config": "~0.16.0"
+  }
+}
