@@ -13,6 +13,6 @@ module.exports = function(grunt) {
         }
     });
 
-    // only test the quality of the code
-    grunt.registerTask('test', ['jshint']);
+    grunt.registerTask('default', ['test']);
+    grunt.registerTask('test', ['clean', 'jshint', 'browserify', 'jasmine']);
 };
