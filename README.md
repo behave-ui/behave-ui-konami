@@ -34,3 +34,18 @@ var View = Marionette.ItemView.extend({
     }
 });
 ```
+
+## Dev
+
+To setup the dev environment just run `npm install`
+You can then run `grunt watch` to automagically run tests and jshint
+
+## Test
+
+To run tests run either `npm test` or `grunt test`, former is an alias for the latter.
+
+## Release History
+
+0.0.1 - Initial Release
+0.0.2 - Tests added
+0.0.3 - README updated
