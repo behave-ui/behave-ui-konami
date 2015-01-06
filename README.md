@@ -49,3 +49,4 @@ To run tests run either `npm test` or `grunt test`, former is an alias for the l
 - 0.0.1 - Initial Release
 - 0.0.2 - Tests added
 - 0.0.3 - README updated
+- 0.0.4 - README style updates

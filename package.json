@@ -1,6 +1,6 @@
 {
   "name": "behave-ui-konami",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A konami code marionette behavior, allows for custom codes as well",
   "main": "src/behave-ui-konami.js",
   "scripts": {
